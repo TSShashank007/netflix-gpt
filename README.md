@@ -4,6 +4,12 @@
 - Configured Tailwind CSS
 - Login Form
 - Singup Form
+- Form Validation
+- useRef Hook for Form Validation (Singn In & Sign Up)
+- Firebase setup to deploy app
+- Create Sign Up user
+- Implement SinIn & Sign Out
+- Created reducx store with user Slice
 
 # Features
 
