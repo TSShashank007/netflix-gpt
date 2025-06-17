@@ -10,6 +10,9 @@
 - Create Sign Up user
 - Implement SinIn & Sign Out
 - Created reducx store with user Slice
+- Update Profile
+- BugFix: Sign up user displayName and profile picture update
+- BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
 
 # Features
 
