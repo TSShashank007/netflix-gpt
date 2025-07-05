@@ -1,6 +1,7 @@
 
 const VideoTitle = ({title, overview}) => {
-    return <div>
+    return (
+    <div className="pt-36 px-12">
         <h1>{title}</h1>
         <p>{overview}</p>
         <div>
@@ -8,6 +9,7 @@ const VideoTitle = ({title, overview}) => {
             <button>More Info</button>
         </div>
     </div>
+    );
 };
 
 export default VideoTitle;
